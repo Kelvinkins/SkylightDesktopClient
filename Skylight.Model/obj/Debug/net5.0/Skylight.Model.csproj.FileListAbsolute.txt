@@ -1,0 +1,15 @@
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\Skylight.Model.deps.json
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\Skylight.Model.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\ref\Skylight.Model.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\Skylight.Model.pdb
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\Skylight.Enum.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\bin\Debug\net5.0\Skylight.Enum.pdb
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.csprojAssemblyReference.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.AssemblyInfoInputs.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.AssemblyInfo.cs
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.csproj.CopyComplete
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\ref\Skylight.Model.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Model\obj\Debug\net5.0\Skylight.Model.pdb

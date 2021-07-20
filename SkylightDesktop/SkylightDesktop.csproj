@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="UI\SplashScreen.png" />
+    <None Remove="UI\Windows\Screenshot_1625150084.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="App.xaml.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="MainWindow.xaml.cs" />
+    <Compile Include="UI\UserControls\uscCompany.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UI\UserControls\uscDashboard.xaml.cs" />
+    <Compile Include="UI\UserControls\uscEmployee.xaml.cs" />
+    <Compile Include="UI\Windows\frmEmployee.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skylight.DataAccess\Skylight.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="UI\Windows\Screenshot_1625150084.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SplashScreen Include="UI\SplashScreen.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="UI\UserControls\uscCompany.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>

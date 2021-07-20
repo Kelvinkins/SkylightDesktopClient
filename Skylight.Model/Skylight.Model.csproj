@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="AppointmentModels.cs" />
+    <Compile Include="AuthItem.cs" />
+    <Compile Include="Authorization.cs" />
+    <Compile Include="AuthorizationDetail.cs" />
+    <Compile Include="AuthorizationDiagno.cs" />
+    <Compile Include="BaseModel.cs" />
+    <Compile Include="BenefitCategory.cs" />
+    <Compile Include="BenefitCover.cs" />
+    <Compile Include="Capitation.cs" />
+    <Compile Include="CapitatonMaster.cs" />
+    <Compile Include="Claim.cs" />
+    <Compile Include="ClaimBatch.cs" />
+    <Compile Include="ClaimDetail.cs" />
+    <Compile Include="ClaimDiagno.cs" />
+    <Compile Include="Classification.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="CompanyPolicy.cs" />
+    <Compile Include="Dependant.cs" />
+    <Compile Include="Diagno.cs" />
+    <Compile Include="EmailAccount.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="IDCardData.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="Marketer.cs" />
+    <Compile Include="Plan.cs" />
+    <Compile Include="Provider.cs" />
+    <Compile Include="ProviderLevel.cs" />
+    <Compile Include="Rule.cs" />
+    <Compile Include="ServiceResponse.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Tariff.cs" />
+    <Compile Include="TariffDetail.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skylight.Enum\Skylight.Enum.csproj" />
+  </ItemGroup>
+
+</Project>

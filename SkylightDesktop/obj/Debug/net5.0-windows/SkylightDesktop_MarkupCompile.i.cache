@@ -1,0 +1,20 @@
+﻿SkylightDesktop
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\SkylightDesktop\obj\Debug\net5.0-windows\
+SkylightDesktop
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\SkylightDesktop\App.xaml
+5371163576
+
+9778194301
+200-1986180052
+MainWindow.xaml;UI\UserControls\uscCompany.xaml;UI\UserControls\uscDashboard.xaml;UI\UserControls\uscEmployee.xaml;UI\Windows\frmEmployee.xaml;
+ui\splashscreen.png
+False
+

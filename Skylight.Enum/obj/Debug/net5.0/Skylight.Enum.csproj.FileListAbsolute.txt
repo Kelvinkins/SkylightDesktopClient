@@ -1,0 +1,12 @@
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\bin\Debug\net5.0\Skylight.Enum.deps.json
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\bin\Debug\net5.0\Skylight.Enum.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\bin\Debug\net5.0\ref\Skylight.Enum.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\bin\Debug\net5.0\Skylight.Enum.pdb
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.csprojAssemblyReference.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.AssemblyInfoInputs.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.AssemblyInfo.cs
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.csproj.CoreCompileInputs.cache
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\ref\Skylight.Enum.dll
+C:\Users\Kingsley Samuel\source\repos\SkylightDesktop\Skylight.Enum\obj\Debug\net5.0\Skylight.Enum.pdb

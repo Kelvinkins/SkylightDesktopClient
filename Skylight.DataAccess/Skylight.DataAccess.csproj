@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="IContract\ICompanyService.cs" />
+    <Compile Include="IContract\IEmployeeService.cs" />
+    <Compile Include="IContract\IGlobalService.cs" />
+    <Compile Include="Services\CompanyService.cs" />
+    <Compile Include="Services\EmployeeService.cs" />
+    <Compile Include="Services\GlobalService.cs" />
+    <Compile Include="Settings\BaseAddress.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skylight.Model\Skylight.Model.csproj" />
+    <ProjectReference Include="..\Skylight.ViewModel\Skylight.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

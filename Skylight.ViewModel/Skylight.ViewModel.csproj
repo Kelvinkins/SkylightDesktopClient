@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="DependantViewModel.cs" />
+    <Compile Include="EmployeeViewModel.cs" />
+    <Compile Include="ListViewModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skylight.Enum\Skylight.Enum.csproj" />
+  </ItemGroup>
+
+</Project>

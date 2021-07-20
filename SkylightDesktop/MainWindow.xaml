@@ -1,0 +1,43 @@
+﻿<Window x:Class="SkylightDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkylightDesktop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Name="mainWindow" Loaded="mainWindow_Loaded" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid  Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="198*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="631*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="homePlace" Grid.Column="1" Grid.RowSpan="2"/>
+        <Grid Grid.Column="0" Height="387" VerticalAlignment="Center" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+                <RowDefinition Height="34"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="btnDashboard" Content="Dashboard" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="30"/>
+            <Button x:Name="btnCompanies" Content="Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="30" Grid.Row="1" Click="btnCompanies_Click"/>
+            <Button x:Name="btnEnrollees" Content="Enrollees" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="30" Grid.Row="2" Click="btnEnrollees_Click"/>
+            <Button Content="Providers" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="30" Grid.Row="3"/>
+        </Grid>
+        <Grid Grid.ColumnSpan="2"  Background="#FF16BDE7">
+            <StackPanel Grid.ColumnSpan="2" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Foreground="White" FontWeight="Bold" FontSize="18">Skylight 1.2</TextBlock>
+            </StackPanel>
+        </Grid>
+
+
+    </Grid>
+</Window>

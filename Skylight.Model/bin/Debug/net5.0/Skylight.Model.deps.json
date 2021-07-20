@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Skylight.Model/1.0.0": {
+        "dependencies": {
+          "Skylight.Enum": "1.0.0"
+        },
+        "runtime": {
+          "Skylight.Model.dll": {}
+        }
+      },
+      "Skylight.Enum/1.0.0": {
+        "runtime": {
+          "Skylight.Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skylight.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Skylight.Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
